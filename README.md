@@ -19,7 +19,7 @@ This is a simple React project that demonstrates how to **show and hide a name**
 
 ## Demo
 
-![Demo Screenshot](./src/screenshot.png)
+![Demo Screenshot](src/screenshot.png)
 
 ---
 
